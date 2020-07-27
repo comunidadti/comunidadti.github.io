@@ -1,150 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ComunidadTI]]></title><description><![CDATA[Comunidad TI]]></description><link>https://comunidadti.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 30 May 2020 14:21:05 GMT</lastBuildDate><item><title><![CDATA[Revisando el protocolo HTTP]]></title><description><![CDATA[¿Cómo llegan las páginas hasta tu navegador? Podemos empezar por el protocolo de transporte que lo permite. El protocolo HTTP nos permite…]]></description><link>https://comunidadti.com/revisando-protocolo-http/</link><guid isPermaLink="false">https://comunidadti.com/revisando-protocolo-http/</guid><pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;¿Cómo llegan las páginas hasta tu navegador? Podemos empezar por el protocolo de transporte que lo permite. El protocolo HTTP nos permite entregar contenido, ya sea texto, imagen, o video.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ComunidadTI]]></title><description><![CDATA[Desarrollo web e inteligencia artificial]]></description><link>https://comunidadti.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Jul 2020 01:28:06 GMT</lastBuildDate><item><title><![CDATA[This is a sample post]]></title><description><![CDATA[This is a sample post.]]></description><link>https://comunidadti.com/sample-post/index/</link><guid isPermaLink="false">https://comunidadti.com/sample-post/index/</guid><pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a sample post. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Revisando el protocolo HTTP]]></title><description><![CDATA[¿Cómo llegan las páginas hasta tu navegador? Podemos empezar por el protocolo de transporte que lo permite. El protocolo HTTP nos permite…]]></description><link>https://comunidadti.com/revisando-protocolo-http/index/</link><guid isPermaLink="false">https://comunidadti.com/revisando-protocolo-http/index/</guid><pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;¿Cómo llegan las páginas hasta tu navegador? Podemos empezar por el protocolo de transporte que lo permite. El protocolo HTTP nos permite entregar contenido, ya sea texto, imagen, o video.&lt;/p&gt;
 &lt;p&gt;Un documento HTML es entregado al navegador por medio de HTTP. El protocolo HTTP es la base de la Web. Es un protocolo cliente/servidor, donde la interacción la empieza el cliente, el caso más común, nuestro navegador.&lt;/p&gt;
 &lt;p&gt;Pero, ¿qué es un protocolo? Un protocolo es un conjunto de reglas que rigen el intercambio de comunicación. Existen diferentes conjunto de reglas que se deben de cumplir para decir que tenemos un servidor HTTP.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1666px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2da513ac9925c90ecf17509426e8431b/17d12/protocolo-http.png&quot;
+    href=&quot;/static/2da513ac9925c90ecf17509426e8431b/986a5/protocolo-http.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 870px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 55.5045871559633%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABTElEQVQoz3WS266CQAxF5/+/jQdfML4pNwGRi6LcBGpWk5IT4mnSTJlOVzt7cOu6yt4xW832+33fS1mWEoah3O93aZpGPp+PuH3hvvhXs3me5fF4yPv9ltfrJeM4yjAMuu84AJkNDvw34V8DUhSFPJ9Preu6TqGYY9QkSeR0OsnxeJQ8z7fksixbd3Oa1nW9xThgOApM01S7oQMeRZG0bbsBq6rSvSzLtDExEKZCP9/3BQbnFAgEAG4xU7IivBVP0yS3203iOFatyJNDLpMBmRwvBchWxgeAAbHOGDdhSvJMZTdBFoA6IQWQ6Yo2vB560J0mfJPj+sSXy0UntcbUA+c8YAWSsJejiKtixBSjFRqa1uQpJqZBEASbNM60AMjLsfKNcfBwOCjM9LMJzcgBMu3dr5+X62Hn81k8z5Pr9arTsaIhEOSwWxAjF/4FnkhPBtDYgR8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABTElEQVQoz3WS266CQAxF5/+/jQdfML4pNwGRi6LcBGpWk5IT4mnSTJlOVzt7cOu6yt4xW832+33fS1mWEoah3O93aZpGPp+PuH3hvvhXs3me5fF4yPv9ltfrJeM4yjAMuu84AJkNDvw34V8DUhSFPJ9Preu6TqGYY9QkSeR0OsnxeJQ8z7fksixbd3Oa1nW9xThgOApM01S7oQMeRZG0bbsBq6rSvSzLtDExEKZCP9/3BQbnFAgEAG4xU7IivBVP0yS3203iOFatyJNDLpMBmRwvBchWxgeAAbHOGDdhSvJMZTdBFoA6IQWQ6Yo2vB560J0mfJPj+sSXy0UntcbUA+c8YAWSsJejiKtixBSjFRqa1uQpJqZBEASbNM60AMjLsfKNcfBwOCjM9LMJzcgBMu3dr5+X62Hn81k8z5Pr9arTsaIhEOSwWxAjF/4FnkhPBtDYgR8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;protocolo http&quot;
-        title=&quot;&quot;
-        src=&quot;/static/2da513ac9925c90ecf17509426e8431b/3f3b9/protocolo-http.png&quot;
-        srcset=&quot;/static/2da513ac9925c90ecf17509426e8431b/5c416/protocolo-http.png 218w,
-/static/2da513ac9925c90ecf17509426e8431b/330eb/protocolo-http.png 435w,
-/static/2da513ac9925c90ecf17509426e8431b/3f3b9/protocolo-http.png 870w,
-/static/2da513ac9925c90ecf17509426e8431b/77abb/protocolo-http.png 1305w,
-/static/2da513ac9925c90ecf17509426e8431b/17d12/protocolo-http.png 1666w&quot;
-        sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+        title=&quot;protocolo http&quot;
+        src=&quot;/static/2da513ac9925c90ecf17509426e8431b/986a5/protocolo-http.png&quot;
+        srcset=&quot;/static/2da513ac9925c90ecf17509426e8431b/0eb09/protocolo-http.png 500w,
+/static/2da513ac9925c90ecf17509426e8431b/1263b/protocolo-http.png 1000w,
+/static/2da513ac9925c90ecf17509426e8431b/986a5/protocolo-http.png 1666w&quot;
+        sizes=&quot;(max-width: 1666px) 100vw, 1666px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;La comunicación, entre el navegador y el servidor que implementa el protocolo de HTTP, se realiza por medio de mensajes individuales. Los mensajes que manda el navegador se le llaman solicitudes o &lt;strong&gt;requests&lt;/strong&gt; y los mensajes con los que contesta el servidor se llaman respuesta o &lt;strong&gt;response&lt;/strong&gt;. Estos términos, &lt;strong&gt;request&lt;/strong&gt; y &lt;strong&gt;response&lt;/strong&gt;, los dejaré en ingles porque serán términos recurrentes en la programación Web.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1712px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b53c3ad844e6f3bd1cd05bb63da01870/56caf/request-reponse.png&quot;
+    href=&quot;/static/b53c3ad844e6f3bd1cd05bb63da01870/41d99/request-reponse.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 870px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 36.23853211009174%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAAA+klEQVQoz5WS2YqEQAxF/f9/0ydFxAVsV7Rdul1x6QwnUMMwzMsEAlWVe3OzlHUchzyfT3k8HhLHsczzLNjn81H/r1llWUqWZZosSRJJ01TWdf0GtG0rRVGo6DRNsm2b5Hmu78MwKBbnnWKsruv0su+7vN9vDTqOI7Zti+d5Sh7HUfq+VwxY3/clDEOpqkpF6rpWb5pGLJQBQ0KVpDhqvHM2RqU/79d1KYfuTAcWJKoiwev10sSo0Q4JAEFk1sSjKJIgCHQ8cKnSGB1oQkNABZLrutoWizrPUwUBY1TI3BHGGIGZo86QCpZl0YsJ3vf95wZ/b938BPA45y+BLxik/DL1aQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAAA+klEQVQoz5WS2YqEQAxF/f9/0ydFxAVsV7Rdul1x6QwnUMMwzMsEAlWVe3OzlHUchzyfT3k8HhLHsczzLNjn81H/r1llWUqWZZosSRJJ01TWdf0GtG0rRVGo6DRNsm2b5Hmu78MwKBbnnWKsruv0su+7vN9vDTqOI7Zti+d5Sh7HUfq+VwxY3/clDEOpqkpF6rpWb5pGLJQBQ0KVpDhqvHM2RqU/79d1KYfuTAcWJKoiwev10sSo0Q4JAEFk1sSjKJIgCHQ8cKnSGB1oQkNABZLrutoWizrPUwUBY1TI3BHGGIGZo86QCpZl0YsJ3vf95wZ/b938BPA45y+BLxik/DL1aQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;request reponse&quot;
-        title=&quot;&quot;
-        src=&quot;/static/b53c3ad844e6f3bd1cd05bb63da01870/3f3b9/request-reponse.png&quot;
-        srcset=&quot;/static/b53c3ad844e6f3bd1cd05bb63da01870/5c416/request-reponse.png 218w,
-/static/b53c3ad844e6f3bd1cd05bb63da01870/330eb/request-reponse.png 435w,
-/static/b53c3ad844e6f3bd1cd05bb63da01870/3f3b9/request-reponse.png 870w,
-/static/b53c3ad844e6f3bd1cd05bb63da01870/77abb/request-reponse.png 1305w,
-/static/b53c3ad844e6f3bd1cd05bb63da01870/56caf/request-reponse.png 1712w&quot;
-        sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+        title=&quot;request reponse&quot;
+        src=&quot;/static/b53c3ad844e6f3bd1cd05bb63da01870/41d99/request-reponse.png&quot;
+        srcset=&quot;/static/b53c3ad844e6f3bd1cd05bb63da01870/0eb09/request-reponse.png 500w,
+/static/b53c3ad844e6f3bd1cd05bb63da01870/1263b/request-reponse.png 1000w,
+/static/b53c3ad844e6f3bd1cd05bb63da01870/41d99/request-reponse.png 1712w&quot;
+        sizes=&quot;(max-width: 1712px) 100vw, 1712px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;La programación Web es crear documentos dinámicos que puedan ser presentados al usuario final. La mayoría de las aplicaciones que vemos en nuestro navegador son el resultado de combinar HTML, CSS, JavaScript, imágenes y videos. Si lo comparamos con una carretera, HTTP es el asfalto con indicaciones, que le permite a los autos – paquetes – llegar a su destino final. Pero si observamos una carretera, hay más elementos que nos facilitan conducir. Tenemos los señalamientos en una intersección, tenemos la base de la calle, etcétera. Lo mismo pasa con la comunicación HTTP.&lt;/p&gt;
-&lt;p&gt;Si leemos la implementación de un servidor HTTP, nos daremos cuenta de que HTTP por si solo no puede enviar los mensajes. Para que un navegador y un servidor HTTP se comuniquen, necesitan de la ayuda de otros protocolos de comunicación. El protocolo HTTP es un protocolo que se sitúa en la capa de aplicación del modelo OSI. No es importante que conozcas a fondo el modelo OSI para empezar en el mundo de la programación Web pero te ayudará cuando tengas que descubrir porque un error está sucediendo. Esto puede leerse extraño, &quot;no tienes que entender al 100%...&quot;, pero es más común de lo que te imaginas en la programación Web. &lt;/p&gt;
+&lt;p&gt;Si leemos la implementación de un servidor HTTP, nos daremos cuenta de que HTTP por si solo no puede enviar los mensajes. Para que un navegador y un servidor HTTP se comuniquen, necesitan de la ayuda de otros protocolos de comunicación. El protocolo HTTP es un protocolo que se sitúa en la capa de aplicación del modelo OSI. No es importante que conozcas a fondo el modelo OSI para empezar en el mundo de la programación Web pero te ayudará cuando tengas que descubrir porque un error está sucediendo. Esto puede leerse extraño, “no tienes que entender al 100%…”, pero es más común de lo que te imaginas en la programación Web. &lt;/p&gt;
 &lt;p&gt;Imagínate el modelo OSI como una cebolla, donde una capa se desprende y puedes ver otra. El modelo OSI tiene 7 capas.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 628px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a9c20288b360766d3f3a962174b21d42/3d84d/modelo-osi.png&quot;
+    href=&quot;/static/a9c20288b360766d3f3a962174b21d42/5e4bf/modelo-osi.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 628px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 156.42201834862385%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAAAsSAAALEgHS3X78AAADeUlEQVRIx3XWh27kMAwEUP//DwUIkB6k9957770i4eEJR8M27gQY2vWKw5khJW0Vf8fv72+Zf35+4v39PT4/P+P19TW+vr7i7u4u3t7eyverq6t4fHys339/f7fiqy6ghRsbGzE9PR2Tk5NxenoaAwMDsbKyEouLi9HX1xfz8/NxdHRUPkuQ8Z6qCZazgeHt7W3s7e3F1tZWmc/OzuLy8rIk/d/4J+DDw0NcXFzUcpqD9MPDw7KmG1sYdsFubm5iamoqxsfHY39/Pw4ODsrs/dLSUuzs7BTJIyMj/wRtMby/v4/j4+N4eXmJhYWFInNzczNmZmbKDBxDxXh+fi4WsKVVlPxAHoCmhwKZLtHT01OZWQEsB3+trRkmoGoKMkjEVPs0h7UKAnR5ebm0GMbWtyR/fHwUAIPhGGAzNjYWExMTMTo6WlrGQ75hDRuAimFTXWUZNe35+XntSTORnvPs7u7WgVlxPgKnsPYQkO5Plt7JmolIZ4eqAgWSVklADa+LZFk06/X1dd13jM4dwB87wq6R1FAsjBNUrPWwKgxOTk7KIgOD/IyZ3xSAX+lvNj9lyXJ1dbUkrKCToPR+yEXkYidrDgn0ovXJNBMAZFnlpUByyUgwn9fX1wtjB4NGNwPkZ1qCkKGH19bWosJIcFYKCyBZZYGyA9MBud34bjsCtw5rBCoFwBCr3PjYMhx7jDwqaZ2kWTz7mk3W8ZrPFZoYoS57Hk9+zKpmc0vinfMSKMYUUkElWyo0t7e3S79l+bEgIw9cSQTkVvSOMt95Z72COIWKZG2R7eOHrGzKyabOgyJPJuvZwD9zkcw7TSsA0zxxJCLVYsFYClIggemhGLFswLTsFIcpYJXkSRYHAI9JAZRB1gHxUEfB7Oxs8bQcDhhiIiPJ2biMJ0t7mLPpnTCCWSIZ9kjVpw02KsR4LHw3gJCbexaI4GxoBHQI9tm7VVYNSwtI1HeKJNg94hqdm5ur+802NQNKS7IrKvTzUHDxaCMs8wrN4z13R/YqaxTNhQY8raiad/HQ0FB9KksgSEUxy17T2DxVBASsb14RrVtPtewIgIODgwWAV1iT7rPC+O6fhSuie5VWzf802bAWezAgS5skKIn8Hh4ebklt3XpdUFuKFGx7e3ujp6enALGkv7+/dETu8+4fhar5N6K7gEQeYmdW0TwHu8wy7g/chxWLXy2tQAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 156.20000000000002%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAAAsSAAALEgHS3X78AAADeUlEQVRIx3XWh27kMAwEUP//DwUIkB6k9957770i4eEJR8M27gQY2vWKw5khJW0Vf8fv72+Zf35+4v39PT4/P+P19TW+vr7i7u4u3t7eyverq6t4fHys339/f7fiqy6ghRsbGzE9PR2Tk5NxenoaAwMDsbKyEouLi9HX1xfz8/NxdHRUPkuQ8Z6qCZazgeHt7W3s7e3F1tZWmc/OzuLy8rIk/d/4J+DDw0NcXFzUcpqD9MPDw7KmG1sYdsFubm5iamoqxsfHY39/Pw4ODsrs/dLSUuzs7BTJIyMj/wRtMby/v4/j4+N4eXmJhYWFInNzczNmZmbKDBxDxXh+fi4WsKVVlPxAHoCmhwKZLtHT01OZWQEsB3+trRkmoGoKMkjEVPs0h7UKAnR5ebm0GMbWtyR/fHwUAIPhGGAzNjYWExMTMTo6WlrGQ75hDRuAimFTXWUZNe35+XntSTORnvPs7u7WgVlxPgKnsPYQkO5Plt7JmolIZ4eqAgWSVklADa+LZFk06/X1dd13jM4dwB87wq6R1FAsjBNUrPWwKgxOTk7KIgOD/IyZ3xSAX+lvNj9lyXJ1dbUkrKCToPR+yEXkYidrDgn0ovXJNBMAZFnlpUByyUgwn9fX1wtjB4NGNwPkZ1qCkKGH19bWosJIcFYKCyBZZYGyA9MBud34bjsCtw5rBCoFwBCr3PjYMhx7jDwqaZ2kWTz7mk3W8ZrPFZoYoS57Hk9+zKpmc0vinfMSKMYUUkElWyo0t7e3S79l+bEgIw9cSQTkVvSOMt95Z72COIWKZG2R7eOHrGzKyabOgyJPJuvZwD9zkcw7TSsA0zxxJCLVYsFYClIggemhGLFswLTsFIcpYJXkSRYHAI9JAZRB1gHxUEfB7Oxs8bQcDhhiIiPJ2biMJ0t7mLPpnTCCWSIZ9kjVpw02KsR4LHw3gJCbexaI4GxoBHQI9tm7VVYNSwtI1HeKJNg94hqdm5ur+802NQNKS7IrKvTzUHDxaCMs8wrN4z13R/YqaxTNhQY8raiad/HQ0FB9KksgSEUxy17T2DxVBASsb14RrVtPtewIgIODgwWAV1iT7rPC+O6fhSuie5VWzf802bAWezAgS5skKIn8Hh4ebklt3XpdUFuKFGx7e3ujp6enALGkv7+/dETu8+4fhar5N6K7gEQeYmdW0TwHu8wy7g/chxWLXy2tQAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;modelo osi&quot;
-        title=&quot;&quot;
-        src=&quot;/static/a9c20288b360766d3f3a962174b21d42/3d84d/modelo-osi.png&quot;
-        srcset=&quot;/static/a9c20288b360766d3f3a962174b21d42/5c416/modelo-osi.png 218w,
-/static/a9c20288b360766d3f3a962174b21d42/330eb/modelo-osi.png 435w,
-/static/a9c20288b360766d3f3a962174b21d42/3d84d/modelo-osi.png 628w&quot;
+        title=&quot;modelo osi&quot;
+        src=&quot;/static/a9c20288b360766d3f3a962174b21d42/5e4bf/modelo-osi.png&quot;
+        srcset=&quot;/static/a9c20288b360766d3f3a962174b21d42/0eb09/modelo-osi.png 500w,
+/static/a9c20288b360766d3f3a962174b21d42/5e4bf/modelo-osi.png 628w&quot;
         sizes=&quot;(max-width: 628px) 100vw, 628px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Elementos básicos de HTTP&lt;/h2&gt;
 &lt;p&gt;Cuando empieces a trabajar con un proyecto Web, encontrarás las palabras request y response en tu código. Estos serán una abstracción de los mensajes de la comunicación HTTP. Tu trabajo como programador será codificar un response para cada request. Un request contendrá la información necesaria para armar un response para tu cliente. La información que viene en el request será el método – GET/POST/otros – que utilizó el navegador para mandar el mensaje, la ruta – path –, los encabezados – headers –, un mensaje – body –, y otros elementos más.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1526px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/24c1d3576ef1598bb79a111013340309/36eca/elementos-http.png&quot;
+    href=&quot;/static/24c1d3576ef1598bb79a111013340309/2fa46/elementos-http.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 870px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 15.13761467889908%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsSAAALEgHS3X78AAAAjUlEQVQI112OzQqAIBCEe/9XMzv0YwWCQQihIOjBoMyJ3UOHBj6WmR3YbUopuO8b3nsopRBCAKnWytCORD3ypOd5GMr+NFprtG2Lfd8hpcSyLJjnmaF8GAas64q+7yGE+JimiTuUj+OIruu41xzHAWPMd50+ijHCOYdt25BSYq7rQs4Z1lqc58meuv/5AvxE4NSLUDGuAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 15.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsSAAALEgHS3X78AAAAjUlEQVQI112OzQqAIBCEe/9XMzv0YwWCQQihIOjBoMyJ3UOHBj6WmR3YbUopuO8b3nsopRBCAKnWytCORD3ypOd5GMr+NFprtG2Lfd8hpcSyLJjnmaF8GAas64q+7yGE+JimiTuUj+OIruu41xzHAWPMd50+ijHCOYdt25BSYq7rQs4Z1lqc58meuv/5AvxE4NSLUDGuAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;elementos http&quot;
-        title=&quot;&quot;
-        src=&quot;/static/24c1d3576ef1598bb79a111013340309/3f3b9/elementos-http.png&quot;
-        srcset=&quot;/static/24c1d3576ef1598bb79a111013340309/5c416/elementos-http.png 218w,
-/static/24c1d3576ef1598bb79a111013340309/330eb/elementos-http.png 435w,
-/static/24c1d3576ef1598bb79a111013340309/3f3b9/elementos-http.png 870w,
-/static/24c1d3576ef1598bb79a111013340309/77abb/elementos-http.png 1305w,
-/static/24c1d3576ef1598bb79a111013340309/36eca/elementos-http.png 1526w&quot;
-        sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+        title=&quot;elementos http&quot;
+        src=&quot;/static/24c1d3576ef1598bb79a111013340309/2fa46/elementos-http.png&quot;
+        srcset=&quot;/static/24c1d3576ef1598bb79a111013340309/0eb09/elementos-http.png 500w,
+/static/24c1d3576ef1598bb79a111013340309/1263b/elementos-http.png 1000w,
+/static/24c1d3576ef1598bb79a111013340309/2fa46/elementos-http.png 1526w&quot;
+        sizes=&quot;(max-width: 1526px) 100vw, 1526px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;Method&lt;/h3&gt;
 &lt;p&gt;El método que usa un navegador, para comunicarse con el servidor, puede tener diferentes significados para el programador. Imagina la comunicación con tu celular, cuando recibes un mensaje, puede que sea para que ese mensaje quede registrado y no se te olvide, a diferencia de cuando recibes una llamada, que puede ser algo efímero. &lt;/p&gt;
 &lt;p&gt;Los métodos comunes que utiliza un navegador para comunicarse son GET/POST. Pero hay más: PUT, PATCH, DELETE, y otros. Los métodos los veremos más a fondo cuando tengamos la oportunidad de programar un servicio HTTP.&lt;/p&gt;
@@ -157,59 +134,42 @@
 &lt;h2&gt;Ejercicio&lt;/h2&gt;
 &lt;p&gt;Ahora que conoces un poco más de HTTP te invito a que veas un request y un response en tu propio navegador. &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Dependiendo del navegador que utilices, da clic derecho en esta página y selecciona &quot;inspect element&quot;&lt;/li&gt;
-&lt;li&gt;Busca una pestaña que se llame &quot;network&quot;.&lt;/li&gt;
+&lt;li&gt;Dependiendo del navegador que utilices, da clic derecho en esta página y selecciona “inspect element”&lt;/li&gt;
+&lt;li&gt;Busca una pestaña que se llame “network”.&lt;/li&gt;
 &lt;li&gt;Vuelve a cargar la página&lt;/li&gt;
 &lt;li&gt;Si estas en la pestaña correcta, verás todos los requests que hizo el navegador para cargar la página.&lt;/li&gt;
 &lt;li&gt;Si das clic en uno, podrás ver más información acerca del request y además de la respuesta que viene del servidor.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;
-      &lt;div
-      class=&quot;gatsby-video-aspect-ratio&quot;
-      style=&quot;position: relative; display: block; padding-top: 56.33507853403141%;&quot;
-      &gt;
-    &lt;video autoplay loop preload style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: auto;&quot; &gt;
-      &lt;source src=&quot;/static/ejercicio-729acc24b91c0f641f6b1593dfca7bb2-b25ed.mp4&quot; type=&quot;video/mp4&quot;&gt;
-    &lt;/video&gt;
-    &lt;/div&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Desarrollo web, ¿dónde empiezo?]]></title><description><![CDATA[El desarrollo web abarca varias tecnologías. Para empezar tu carrera en el desarrollo web, lo mejor será enfocarte en una de las áreas: back…]]></description><link>https://comunidadti.com/desarollo-web-donde-empiezo/</link><guid isPermaLink="false">https://comunidadti.com/desarollo-web-donde-empiezo/</guid><pubDate>Wed, 07 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;El desarrollo web abarca varias tecnologías. Para empezar tu carrera en el desarrollo web, lo mejor será enfocarte en una de las áreas: back-end ó front-end. Existen otras categorías como devops/sysadmin, ingeniero de seguridad, experto en base de datos y otras. En este post me enfocaré en las grandes áreas.&lt;/p&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Desarrollo web, ¿dónde empiezo?]]></title><description><![CDATA[El desarrollo web abarca varias tecnologías. Para empezar tu carrera en el desarrollo web, lo mejor será enfocarte en una de las áreas: back…]]></description><link>https://comunidadti.com/desarollo-web-donde-empiezo/index/</link><guid isPermaLink="false">https://comunidadti.com/desarollo-web-donde-empiezo/index/</guid><pubDate>Wed, 07 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;El desarrollo web abarca varias tecnologías. Para empezar tu carrera en el desarrollo web, lo mejor será enfocarte en una de las áreas: back-end ó front-end. Existen otras categorías como devops/sysadmin, ingeniero de seguridad, experto en base de datos y otras. En este post me enfocaré en las grandes áreas.&lt;/p&gt;
 &lt;h2&gt;Back-end&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1850px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ca622164555c512a4174408ceb13a2b7/ca3c3/backend-donde-empiezo.png&quot;
+    href=&quot;/static/ca622164555c512a4174408ceb13a2b7/c807c/backend-donde-empiezo.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 870px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.5137614678899%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQ4y3WT646CQAyF5/3fzT8YRQUUFSXgFbyLWvN1082Iu00ahpnO6elpx8kf9nq9vvbu97vsdjvJ81zSNJXJZCLdble2262ePR4PjXNc9t0A/fXz+ZSmaWSxWCjgZrNRr6pKkiSRXq8nh8PhB/A/drAYjUYym83Ub7ebnpVlqWB8YXc6nT7uOzZA5wJutlqtZDqdKossy5QhFkWRMiIhjDHOwDifz+LYDIJAWXDxer1+6Xe5XOR4POqZleYbMpAI1g4QMiJyURS6ySFOEoCoYr/f6xqnEsqFPeUDGIah3nd1XctgMFD6XFoulwoWx7GWbOKbdsSs12ttBgkpnS8YyKQaAkAW1jBoGyNBuTgj0m7ifD5Xhnwd1EHnx4L9sWFkMARnDi0B+xZDBVSkJQOC0NYMHwytKGk8HusF05a9djySkfBjDo0NRkC/39cgpIAhzpr55MzGzH9ZzmdEgwik63SfpvC8WMMKQGw4HEqn0/l9bv5Lc34GGCIBnURX5pMEdBVmpjGNMz3bT/cNiDriXU4RlyQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.39999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQ4y3WT646CQAyF5/3fzT8YRQUUFSXgFbyLWvN1082Iu00ahpnO6elpx8kf9nq9vvbu97vsdjvJ81zSNJXJZCLdble2262ePR4PjXNc9t0A/fXz+ZSmaWSxWCjgZrNRr6pKkiSRXq8nh8PhB/A/drAYjUYym83Ub7ebnpVlqWB8YXc6nT7uOzZA5wJutlqtZDqdKossy5QhFkWRMiIhjDHOwDifz+LYDIJAWXDxer1+6Xe5XOR4POqZleYbMpAI1g4QMiJyURS6ySFOEoCoYr/f6xqnEsqFPeUDGIah3nd1XctgMFD6XFoulwoWx7GWbOKbdsSs12ttBgkpnS8YyKQaAkAW1jBoGyNBuTgj0m7ifD5Xhnwd1EHnx4L9sWFkMARnDi0B+xZDBVSkJQOC0NYMHwytKGk8HusF05a9djySkfBjDo0NRkC/39cgpIAhzpr55MzGzH9ZzmdEgwik63SfpvC8WMMKQGw4HEqn0/l9bv5Lc34GGCIBnURX5pMEdBVmpjGNMz3bT/cNiDriXU4RlyQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;backend donde empiezo&quot;
-        title=&quot;&quot;
-        src=&quot;/static/ca622164555c512a4174408ceb13a2b7/3f3b9/backend-donde-empiezo.png&quot;
-        srcset=&quot;/static/ca622164555c512a4174408ceb13a2b7/5c416/backend-donde-empiezo.png 218w,
-/static/ca622164555c512a4174408ceb13a2b7/330eb/backend-donde-empiezo.png 435w,
-/static/ca622164555c512a4174408ceb13a2b7/3f3b9/backend-donde-empiezo.png 870w,
-/static/ca622164555c512a4174408ceb13a2b7/77abb/backend-donde-empiezo.png 1305w,
-/static/ca622164555c512a4174408ceb13a2b7/e67a8/backend-donde-empiezo.png 1740w,
-/static/ca622164555c512a4174408ceb13a2b7/ca3c3/backend-donde-empiezo.png 1850w&quot;
-        sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+        title=&quot;backend donde empiezo&quot;
+        src=&quot;/static/ca622164555c512a4174408ceb13a2b7/c807c/backend-donde-empiezo.png&quot;
+        srcset=&quot;/static/ca622164555c512a4174408ceb13a2b7/0eb09/backend-donde-empiezo.png 500w,
+/static/ca622164555c512a4174408ceb13a2b7/1263b/backend-donde-empiezo.png 1000w,
+/static/ca622164555c512a4174408ceb13a2b7/c807c/backend-donde-empiezo.png 1850w&quot;
+        sizes=&quot;(max-width: 1850px) 100vw, 1850px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;El back-end representa la lógica de negocio de tu aplicación web. Es el conjunto de interacciones entre diferentes servicios: la base de datos, el sistema operativo, el sistema de archivos, un cache de datos, validaciones, y más. &lt;/p&gt;
 &lt;p&gt;En mi opinión, lo más complicado del back-end no será el lenguaje de programación, lo que será complicado será, tomar los requerimientos que te pide el cliente y traducirlos a la idea mental que te has hecho de cómo funcionará tu back-end. Esa traducción se verá reflejada en persistir datos, a una o varias bases de datos, y permitir que otros clientes consuman tu back-end. &lt;/p&gt;
 &lt;p&gt;Para enfocarte en el back-end, te recomiendo las siguientes áreas:&lt;/p&gt;
@@ -221,48 +181,42 @@
 &lt;li&gt;Tener conocimiento de las bases de datos no relacionales(NoSQL). Estas varían de empresa a empresa. Te recomendaría estudiar aquellas específicas al trabajo que quieras aplicar. Lo que sí te recomiendo es conocer de Redis, por su versatilidad. Redis se usa como un caché de datos pero también como un manejador de tareas programadas.&lt;/li&gt;
 &lt;li&gt;Patrones de diseño. También depende de la empresa en la que quieras trabajar. Algunas empresas desayunan, comen y cenan patrones de diseño. Es bueno conocerlos pero no lo lleves al extremo.
 Arquitectura. Ser un ingeniero back-end involucra tomar decisiones que afectan el resto de la aplicación, desde cómo se monta el servidor, hasta cómo se consumen los datos en el front-end o aplicaciones móviles.&lt;/li&gt;
-&lt;li&gt;Infraestructura. Si la empresa en la que trabajas es pequeña, será tu trabajo como back-end además de crear la aplicación, montar el servidor y asegurarse que no se &quot;caiga&quot; la aplicación. Te recomiendo leer de los protocolos de DNS y SSH, así como el protocolo del manejador de base de datos que utilices.&lt;/li&gt;
+&lt;li&gt;Infraestructura. Si la empresa en la que trabajas es pequeña, será tu trabajo como back-end además de crear la aplicación, montar el servidor y asegurarse que no se “caiga” la aplicación. Te recomiendo leer de los protocolos de DNS y SSH, así como el protocolo del manejador de base de datos que utilices.&lt;/li&gt;
 &lt;li&gt;Pruebas unitarias y pruebas de integración. Esto también del equipo en el que quieras trabajar. Algunos equipos tienen pruebas unitarias para todo nuevo código que se escribe. Otros equipos prefieren usar pruebas de integración y dejar las pruebas unitarias a un lado. Otros no hacen nada de pruebas. Lo mejor será que conozcas cómo realizar pruebas.&lt;/li&gt;
 &lt;li&gt;Control de versiones, ya sea git, svn, mercurial u otros. Un control de versiones permitirá guardar los cambios a tu código a través del tiempo. &lt;/li&gt;
 &lt;li&gt;Inglés. La mayoría de la documentación de lenguajes y frameworks está en inglés. No importa que tu comunicación diaria sea en español. Te ahorrarás tiempo aprendiendo las reglas básicas gramaticales y obteniendo un buen vocabulario del idioma.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Aún hay más temas que abarcan el back-end. Conforme aprendas de los temas presentados aquí, irás descubriendo nuevos temas que te ayudarán a montar una aplicación.&lt;/p&gt;
 &lt;h2&gt;Front-end&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1561px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1fc1ea7d58544c8e233f9fdba7054273/2bcd1/frontend-donde-empiezo.png&quot;
+    href=&quot;/static/1fc1ea7d58544c8e233f9fdba7054273/d73f5/frontend-donde-empiezo.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 870px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 61.46788990825688%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABiElEQVQoz3WSh47CQAxE9/+/DQgCQUKvoffe5+75ZJRrlswmwTueGTvoM/b7vQqFghqNhpIkUbvdfj93Oh3Fcaxqtao0TSnX6/WyvF6vlo/HQx6Bn/v9ruVyqd1uZ0mDw+Gg0+mk4XCo0Wik9XqtVqul8XhsDfhWLBaVz+c1m83eDQIPHrfbTcfj0RJgQCl6Pp/2/2AwUL/ft6QByZ1ms2nAnMHpc4kCpNbrdeVyOdVqNWMPqMdms9F2u7VmrgSG1IET9E9cLhfzDGmTycQYE/hKs1KpZElTDwNcrVbmn+disTCmzqZcLr99QgVNkAkj3mnMEEk8D+hGJh+YKMbDotvtGih+0sQb/AyGxB3qz+fzb8l4wkVYIpWcTqcGinckNqAGMAesVCpfDH0oPm0k4QuAADNZLrA+gDBhFMEIRdT3ej27wz5+A8yukAcg+OSS8S8b8/nclh6GkAjZzc8+043uURTZyeqwyEzYF5xAJu/UYNefgH7CiC2gEGb4x+7xjZPwyTNchvIBjceO4aQ1Y/gAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.199999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABiElEQVQoz3WSh47CQAxE9/+/DQgCQUKvoffe5+75ZJRrlswmwTueGTvoM/b7vQqFghqNhpIkUbvdfj93Oh3Fcaxqtao0TSnX6/WyvF6vlo/HQx6Bn/v9ruVyqd1uZ0mDw+Gg0+mk4XCo0Wik9XqtVqul8XhsDfhWLBaVz+c1m83eDQIPHrfbTcfj0RJgQCl6Pp/2/2AwUL/ft6QByZ1ms2nAnMHpc4kCpNbrdeVyOdVqNWMPqMdms9F2u7VmrgSG1IET9E9cLhfzDGmTycQYE/hKs1KpZElTDwNcrVbmn+disTCmzqZcLr99QgVNkAkj3mnMEEk8D+hGJh+YKMbDotvtGih+0sQb/AyGxB3qz+fzb8l4wkVYIpWcTqcGinckNqAGMAesVCpfDH0oPm0k4QuAADNZLrA+gDBhFMEIRdT3ej27wz5+A8yukAcg+OSS8S8b8/nclh6GkAjZzc8+043uURTZyeqwyEzYF5xAJu/UYNefgH7CiC2gEGb4x+7xjZPwyTNchvIBjceO4aQ1Y/gAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;frontend donde empiezo&quot;
-        title=&quot;&quot;
-        src=&quot;/static/1fc1ea7d58544c8e233f9fdba7054273/3f3b9/frontend-donde-empiezo.png&quot;
-        srcset=&quot;/static/1fc1ea7d58544c8e233f9fdba7054273/5c416/frontend-donde-empiezo.png 218w,
-/static/1fc1ea7d58544c8e233f9fdba7054273/330eb/frontend-donde-empiezo.png 435w,
-/static/1fc1ea7d58544c8e233f9fdba7054273/3f3b9/frontend-donde-empiezo.png 870w,
-/static/1fc1ea7d58544c8e233f9fdba7054273/77abb/frontend-donde-empiezo.png 1305w,
-/static/1fc1ea7d58544c8e233f9fdba7054273/2bcd1/frontend-donde-empiezo.png 1561w&quot;
-        sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+        title=&quot;frontend donde empiezo&quot;
+        src=&quot;/static/1fc1ea7d58544c8e233f9fdba7054273/d73f5/frontend-donde-empiezo.png&quot;
+        srcset=&quot;/static/1fc1ea7d58544c8e233f9fdba7054273/0eb09/frontend-donde-empiezo.png 500w,
+/static/1fc1ea7d58544c8e233f9fdba7054273/1263b/frontend-donde-empiezo.png 1000w,
+/static/1fc1ea7d58544c8e233f9fdba7054273/d73f5/frontend-donde-empiezo.png 1561w&quot;
+        sizes=&quot;(max-width: 1561px) 100vw, 1561px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;El mundo de front-end es cambiante y eso es decir lo mínimo. En los últimos diez años el área de front-end ha sufrido grandes cambios. El front-end es el conjunto de archivos HTML, hojas de estilo y scripts de Javascript. Esa combinación le dará al browser un artefacto que puede presentar a tu usuario final. El front-end de tu aplicación puede ser: simple con solo html, css y unas líneas de JavaScript, o puede ser complicado y será mejor usar un framework, ya sea React, Angular, Ember u otros.&lt;/p&gt;
 &lt;p&gt;Para empezar con el front-end te recomiendo empezar a leer y estudiar los siguientes puntos:&lt;/p&gt;
 &lt;ul&gt;
@@ -276,188 +230,259 @@ Control de versiones. Igual que el back-end developer, un front-end debe de cono
 &lt;li&gt;Inglés. La mayoría de la documentación de frameworks, css, html y javascript esta en inglés. Mi recomendación es conocer las reglas básicas del idioma inglés y aprender un poco de la terminología relacionado con el front-end.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Conclusión&lt;/h3&gt;
-&lt;p&gt;Espero que estos puntos te hayan dado una idea de por dónde puedes empezar. Cada punto, ya sea de front-end o back-end, te tomará tiempo en aprenderlo. Lo importante es aprender y practicar lo que has aprendido. Lo mejor de esta industria es que no necesitas un laboratorio gigante para practicar, solo tu computadora y la actitud para aprender.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[This is markdown unity test!]]></title><description><![CDATA[Documentation stored with source files shares the same permissions.
-Documentation stored in a separate Git repository can use different…]]></description><link>https://comunidadti.com/markdown-test/</link><guid isPermaLink="false">https://comunidadti.com/markdown-test/</guid><pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Documentation stored with source files shares the same permissions.
-Documentation stored in a separate Git repository can use different
-access controls. If Gerrit Code Review is being used, branch level
-read permissions can be used to grant or restrict access to any
-documentation branches.&lt;/p&gt;
-&lt;h2&gt;READMEs&lt;/h2&gt;
-&lt;p&gt;Files named &lt;code class=&quot;language-text&quot;&gt;README.md&lt;/code&gt; are automatically displayed below the file&apos;s
-directory listing. For the top level directory this mirrors the
-standard &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; presentation.&lt;/p&gt;
-&lt;p&gt;*** promo
-README.md files are meant to provide orientation for developers
-browsing the repository, especially first-time users.&lt;/p&gt;
+&lt;p&gt;Espero que estos puntos te hayan dado una idea de por dónde puedes empezar. Cada punto, ya sea de front-end o back-end, te tomará tiempo en aprenderlo. Lo importante es aprender y practicar lo que has aprendido. Lo mejor de esta industria es que no necesitas un laboratorio gigante para practicar, solo tu computadora y la actitud para aprender.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Github Source]]></title><description><![CDATA[A few things you should know Find the source of this blog on GitHub - scttcper/gatsby-casper Getting Started Use this repo to start your own…]]></description><link>https://comunidadti.com/archive/github-link/</link><guid isPermaLink="false">https://comunidadti.com/archive/github-link/</guid><pubDate>Sun, 10 Mar 2019 10:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;A few things you should know&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Find the source of this blog on GitHub - &lt;a href=&quot;https://github.com/scttcper/gatsby-casper&quot;&gt;scttcper/gatsby-casper&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Getting Started&lt;/h3&gt;
+&lt;p&gt;Use this repo to start your own blog with the same theme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clone this repo.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; clone https://github.com/scttcper/gatsby-casper.git --depth&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Remove .git folder and setup a new one&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;rm&lt;/span&gt; -rf .git &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; init&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now push to whatever repo you want!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Full and Comprehensive Style Test]]></title><description><![CDATA[Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs…]]></description><link>https://comunidadti.com/archive/a-full-style-test/</link><guid isPermaLink="false">https://comunidadti.com/archive/a-full-style-test/</guid><pubDate>Sun, 30 Sep 2018 07:03:47 GMT</pubDate><content:encoded>&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;We recommend that Git repositories have an up-to-date top-level
-&lt;code class=&quot;language-text&quot;&gt;README.md&lt;/code&gt; file.&lt;/p&gt;
-&lt;h2&gt;Markdown syntax&lt;/h2&gt;
-&lt;p&gt;Gitiles supports the core Markdown syntax described in
-&lt;a href=&quot;http://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown Basics&lt;/a&gt;. Additional extensions are supported
-to more closely match &lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown/&quot;&gt;GitHub Flavored Markdown&lt;/a&gt; and
-simplify documentation writing.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Typography &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;typography&apos;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; typography &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Typography&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  baseFontSize&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;18px&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  baseLineHeight&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1.666&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  headerFontFamily&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;Avenir Next&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Helvetica Neue&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Arial&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;sans-serif&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  bodyFontFamily&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;Georgia&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;serif&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;// See below for the full list of options.&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;// Output CSS as string.&lt;/span&gt;
-typography&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;// Or insert styles directly into the &amp;lt;head&gt; (works well for client-only&lt;/span&gt;
-&lt;span class=&quot;token comment&quot;&gt;// JS web apps.&lt;/span&gt;
-typography&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;injectStyles&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Sample JavaScript&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;gatsby-highlight&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;pre&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;language-jsx&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;code&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Embedded content here ... --&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;code&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;pre&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Sample HTML&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;gatsby-highlight&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;pre&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;language-html&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;code&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Embedded content here ... --&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;code&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;pre&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; rows &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;prompt&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;How many rows for your multiplication table?&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; cols &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;prompt&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;How many columns for your multiplication table?&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;rows &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;||&lt;/span&gt; rows &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; rows &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;cols &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;||&lt;/span&gt; cols &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; cols &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;createTable&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;rows&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; cols&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;createTable&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;rows&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; cols&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; j &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; output &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;table border=&apos;1&apos; width=&apos;500&apos; cellspacing=&apos;0&apos;cellpadding=&apos;5&apos;&gt;&quot;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;&amp;lt;=&lt;/span&gt; rows&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    output &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; output &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;tr&gt;&apos;&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;j &lt;span class=&quot;token operator&quot;&gt;&amp;lt;=&lt;/span&gt; cols&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-      output &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; output &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;td&gt;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; j &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;/td&gt;&apos;&lt;/span&gt;
-      j &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; j &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    output &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; output &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;/tr&gt;&apos;&lt;/span&gt;
-    j &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  output &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; output &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;/table&gt;&apos;&lt;/span&gt;
-  document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;output&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;h5&gt;Heading 5&lt;/h5&gt;
+&lt;h6&gt;Heading 6&lt;/h6&gt;
+&lt;hr&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline&lt;/span&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+&lt;p&gt;HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type &lt;code class=&quot;language-text&quot;&gt;COPY filename&lt;/code&gt;. &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; &lt;span style=&quot;text-decoration:underline;&quot;&gt;Let’s make that 7&lt;/span&gt;. This &lt;del&gt;text&lt;/del&gt; has been struck.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Media&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+&lt;h3&gt;Big Image&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1080px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.39999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAdNuKx1yIr//xAAbEAADAAIDAAAAAAAAAAAAAAAAAQMCEQQSE//aAAgBAQABBQKVMVXkV6r1yENm9H//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFn/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAESMRARIv/aAAgBAQAGPwJ9KOhRLKKx/8QAGhABAQADAQEAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPyHgEOGIT27yS7UfFl8QuL//2gAMAwEAAgADAAAAEC/P/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxCKY//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBO2t//xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhMXFBUfH/2gAIAQEAAT8QcZQGAe5gVLLGBxGy2wIxZF3AkijZgRGhqf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Test Image&quot;
+        title=&quot;Test Image&quot;
+        src=&quot;/static/8bafcea43f0bc141b01ef5b43dd2003b/b37e7/testimg1.jpg&quot;
+        srcset=&quot;/static/8bafcea43f0bc141b01ef5b43dd2003b/953fe/testimg1.jpg 500w,
+/static/8bafcea43f0bc141b01ef5b43dd2003b/0a251/testimg1.jpg 1000w,
+/static/8bafcea43f0bc141b01ef5b43dd2003b/b37e7/testimg1.jpg 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+&lt;h3&gt;Small Image&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 300px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABhZNsvAoT/8QAGRABAAMBAQAAAAAAAAAAAAAAAgESMQAR/9oACAEBAAEFAhNSXdOfUMWd/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAACEBAhEg/9oACAEBAAY/AosNI3j/xAAaEAEAAgMBAAAAAAAAAAAAAAABACERMUFh/9oACAEBAAE/IaD1TGXEBk+kJh2PXkSUYz//2gAMAwEAAgADAAAAEGc//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8Qh//EABYRAQEBAAAAAAAAAAAAAAAAAAARQf/aAAgBAgEBPxDUf//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExQf/aAAgBAQABPxDqCqF9HjAJqYZ4bcegoXkRv1KJEYlGBeE6Z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Small Test Image&quot;
+        title=&quot;Small Test Image&quot;
+        src=&quot;/static/b629d579b1c63df6750fc11d47141796/0cdb7/testimg2.jpg&quot;
+        srcset=&quot;/static/b629d579b1c63df6750fc11d47141796/0cdb7/testimg2.jpg 300w&quot;
+        sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Labore et dolore.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;List Types&lt;/h2&gt;
+&lt;h3&gt;Definition List&lt;/h3&gt;
+&lt;p&gt;Definition List Title
+: This is a definition list division.&lt;/p&gt;
+&lt;p&gt;Definition
+: An exact statement or description of the nature, scope, or meaning of something: &lt;em&gt;our definition of what constitutes poetry.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Ordered List&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;List Item 2&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Nested list item A&lt;/li&gt;
+&lt;li&gt;Nested list item B&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Unordered List&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;List Item 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nested list item A&lt;/li&gt;
+&lt;li&gt;Nested list item B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Table&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Table Header 1&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Table Header 2&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Table Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Division 1&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Division 2&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Division 1&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Division 2&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;Division 1&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Division 2&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;Preformatted Text&lt;/h2&gt;
+&lt;p&gt;Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.&lt;/p&gt;
+&lt;h3&gt;Code&lt;/h3&gt;
+&lt;p&gt;Code can be presented inline, like &lt;code class=&quot;language-text&quot;&gt;&amp;lt;?php bloginfo(&amp;#39;stylesheet_url&amp;#39;); ?&amp;gt;&lt;/code&gt;, or using &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;jekyll’s highlight
+filter&lt;/a&gt; to
+highlight a block of code. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; left&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 -240px 0 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Table&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Option&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;data&lt;/td&gt;
-&lt;td&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;engine&lt;/td&gt;
-&lt;td&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ext&lt;/td&gt;
-&lt;td&gt;extension to be used for dest files.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Right aligned columns&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;right&quot;&gt;Option&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;right&quot;&gt;data&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;right&quot;&gt;engine&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;right&quot;&gt;ext&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;extension to be used for dest files.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;Lists&lt;/h3&gt;
-&lt;p&gt;A bullet list:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* Fruit
-    * Orange
-    * Pear
-* Cake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;will render into HTML as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Fruit&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Pear&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Cake&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The second level items (above Orange, Pear) must be indented with more
-spaces than the item they are nested under. Above 2 spaces were used.
-Additionally, the entire list must be preceded and followed by a blank
-line.&lt;/p&gt;
-&lt;p&gt;A numbered list:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1. Fruit
-     1. Orange
-     2. Pear
-2. Cake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;will render into HTML as:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Fruit&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Pear&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Cake&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Blockquotes&lt;/h3&gt;
-&lt;p&gt;Sir Winston Churchill once said:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Blockquotes&lt;/h2&gt;
+&lt;p&gt;Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A lie gets halfway around the world before the truth has a
-chance to get its pants on.&lt;/p&gt;
+&lt;p&gt;Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. — &lt;a href=&quot;http://en.wikipedia.org/wiki/HAL_9000&quot;&gt;HAL 9000&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3&gt;Mathematical expressions&lt;/h3&gt;
-&lt;p&gt;You can render LaTeX mathematical expressions.&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
-&lt;p&gt;$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.
-$$&lt;/p&gt;
-&lt;h3&gt;UML diagrams&lt;/h3&gt;
-&lt;p&gt;You can render UML diagrams, this will produce a sequence diagram:&lt;/p&gt;
-&lt;div class=&quot;mermaid&quot; data-processed=&quot;true&quot;&gt;&lt;svg id=&quot;mermaid-1590767058404&quot; width=&quot;100%&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;100%&quot; style=&quot;max-width:849.109375px;&quot; viewBox=&quot;-50 -10 849.109375 465&quot;&gt;&lt;style&gt;#mermaid-1590767058404 .label{font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);color:#333}#mermaid-1590767058404 .label text{fill:#333}#mermaid-1590767058404 .node rect,#mermaid-1590767058404 .node circle,#mermaid-1590767058404 .node ellipse,#mermaid-1590767058404 .node polygon,#mermaid-1590767058404 .node path{fill:#ECECFF;stroke:#9370db;stroke-width:1px}#mermaid-1590767058404 .node .label{text-align:center}#mermaid-1590767058404 .node.clickable{cursor:pointer}#mermaid-1590767058404 .arrowheadPath{fill:#333}#mermaid-1590767058404 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1590767058404 .edgeLabel{background-color:#e8e8e8;text-align:center}#mermaid-1590767058404 .edgeLabel rect{opacity:0.5}#mermaid-1590767058404 .cluster rect{fill:#ffffde;stroke:#aa3;stroke-width:1px}#mermaid-1590767058404 .cluster text{fill:#333}#mermaid-1590767058404 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1590767058404 .actor{stroke:#ccf;fill:#ECECFF}#mermaid-1590767058404 text.actor{fill:#000;stroke:none}#mermaid-1590767058404 .actor-line{stroke:grey}#mermaid-1590767058404 .messageLine0{stroke-width:1.5;stroke-dasharray:&apos;2 2&apos;;stroke:#333}#mermaid-1590767058404 .messageLine1{stroke-width:1.5;stroke-dasharray:&apos;2 2&apos;;stroke:#333}#mermaid-1590767058404 #arrowhead{fill:#333}#mermaid-1590767058404 .sequenceNumber{fill:#fff}#mermaid-1590767058404 #sequencenumber{fill:#333}#mermaid-1590767058404 #crosshead path{fill:#333 !important;stroke:#333 !important}#mermaid-1590767058404 .messageText{fill:#333;stroke:none}#mermaid-1590767058404 .labelBox{stroke:#ccf;fill:#ECECFF}#mermaid-1590767058404 .labelText{fill:#000;stroke:none}#mermaid-1590767058404 .loopText{fill:#000;stroke:none}#mermaid-1590767058404 .loopLine{stroke-width:2;stroke-dasharray:&apos;2 2&apos;;stroke:#ccf}#mermaid-1590767058404 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1590767058404 .noteText{fill:black;stroke:none;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);font-size:14px}#mermaid-1590767058404 .activation0{fill:#f4f4f4;stroke:#666}#mermaid-1590767058404 .activation1{fill:#f4f4f4;stroke:#666}#mermaid-1590767058404 .activation2{fill:#f4f4f4;stroke:#666}#mermaid-1590767058404 .mermaid-main-font{font-family:&quot;trebuchet ms&quot;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .section{stroke:none;opacity:0.2}#mermaid-1590767058404 .section0{fill:rgba(102,102,255,0.49)}#mermaid-1590767058404 .section2{fill:#fff400}#mermaid-1590767058404 .section1,#mermaid-1590767058404 .section3{fill:#fff;opacity:0.2}#mermaid-1590767058404 .sectionTitle0{fill:#333}#mermaid-1590767058404 .sectionTitle1{fill:#333}#mermaid-1590767058404 .sectionTitle2{fill:#333}#mermaid-1590767058404 .sectionTitle3{fill:#333}#mermaid-1590767058404 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .grid .tick{stroke:#d3d3d3;opacity:0.8;shape-rendering:crispEdges}#mermaid-1590767058404 .grid .tick text{font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .grid path{stroke-width:0}#mermaid-1590767058404 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1590767058404 .task{stroke-width:2}#mermaid-1590767058404 .taskText{text-anchor:middle;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .taskText:not([font-size]){font-size:11px}#mermaid-1590767058404 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1590767058404 .task.clickable{cursor:pointer}#mermaid-1590767058404 .taskText.clickable{cursor:pointer;fill:#003163 !important;font-weight:bold}#mermaid-1590767058404 .taskTextOutsideLeft.clickable{cursor:pointer;fill:#003163 !important;font-weight:bold}#mermaid-1590767058404 .taskTextOutsideRight.clickable{cursor:pointer;fill:#003163 !important;font-weight:bold}#mermaid-1590767058404 .taskText0,#mermaid-1590767058404 .taskText1,#mermaid-1590767058404 .taskText2,#mermaid-1590767058404 .taskText3{fill:#fff}#mermaid-1590767058404 .task0,#mermaid-1590767058404 .task1,#mermaid-1590767058404 .task2,#mermaid-1590767058404 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1590767058404 .taskTextOutside0,#mermaid-1590767058404 .taskTextOutside2{fill:#000}#mermaid-1590767058404 .taskTextOutside1,#mermaid-1590767058404 .taskTextOutside3{fill:#000}#mermaid-1590767058404 .active0,#mermaid-1590767058404 .active1,#mermaid-1590767058404 .active2,#mermaid-1590767058404 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1590767058404 .activeText0,#mermaid-1590767058404 .activeText1,#mermaid-1590767058404 .activeText2,#mermaid-1590767058404 .activeText3{fill:#000 !important}#mermaid-1590767058404 .done0,#mermaid-1590767058404 .done1,#mermaid-1590767058404 .done2,#mermaid-1590767058404 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1590767058404 .doneText0,#mermaid-1590767058404 .doneText1,#mermaid-1590767058404 .doneText2,#mermaid-1590767058404 .doneText3{fill:#000 !important}#mermaid-1590767058404 .crit0,#mermaid-1590767058404 .crit1,#mermaid-1590767058404 .crit2,#mermaid-1590767058404 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1590767058404 .activeCrit0,#mermaid-1590767058404 .activeCrit1,#mermaid-1590767058404 .activeCrit2,#mermaid-1590767058404 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1590767058404 .doneCrit0,#mermaid-1590767058404 .doneCrit1,#mermaid-1590767058404 .doneCrit2,#mermaid-1590767058404 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1590767058404 .milestone{transform:rotate(45deg) scale(0.8, 0.8)}#mermaid-1590767058404 .milestoneText{font-style:italic}#mermaid-1590767058404 .doneCritText0,#mermaid-1590767058404 .doneCritText1,#mermaid-1590767058404 .doneCritText2,#mermaid-1590767058404 .doneCritText3{fill:#000 !important}#mermaid-1590767058404 .activeCritText0,#mermaid-1590767058404 .activeCritText1,#mermaid-1590767058404 .activeCritText2,#mermaid-1590767058404 .activeCritText3{fill:#000 !important}#mermaid-1590767058404 .titleText{text-anchor:middle;font-size:18px;fill:#000;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 g.classGroup text{fill:#9370db;stroke:none;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);font-size:10px}#mermaid-1590767058404 g.classGroup text .title{font-weight:bolder}#mermaid-1590767058404 g.clickable{cursor:pointer}#mermaid-1590767058404 g.classGroup rect{fill:#ECECFF;stroke:#9370db}#mermaid-1590767058404 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1590767058404 .classLabel .box{stroke:none;stroke-width:0;fill:#ECECFF;opacity:0.5}#mermaid-1590767058404 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1590767058404 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1590767058404 .dashed-line{stroke-dasharray:3}#mermaid-1590767058404 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #compositionEnd{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #aggregationStart{fill:#ECECFF;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #aggregationEnd{fill:#ECECFF;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #dependencyStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #dependencyEnd{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #extensionEnd{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 .commit-id,#mermaid-1590767058404 .commit-msg,#mermaid-1590767058404 .branch-label{fill:lightgrey;color:lightgrey;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .pieTitleText{text-anchor:middle;font-size:25px;fill:#000;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .slice{font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 g.stateGroup text{fill:#9370db;stroke:none;font-size:10px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 g.stateGroup text{fill:#9370db;stroke:none;font-size:10px}#mermaid-1590767058404 g.stateGroup .state-title{font-weight:bolder;fill:#000}#mermaid-1590767058404 g.stateGroup rect{fill:#ECECFF;stroke:#9370db}#mermaid-1590767058404 g.stateGroup line{stroke:#9370db;stroke-width:1}#mermaid-1590767058404 .transition{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1590767058404 .stateGroup .composit{fill:white;border-bottom:1px}#mermaid-1590767058404 .stateGroup .alt-composit{fill:#e0e0e0;border-bottom:1px}#mermaid-1590767058404 .state-note{stroke:#aa3;fill:#fff5ad}#mermaid-1590767058404 .state-note text{fill:black;stroke:none;font-size:10px}#mermaid-1590767058404 .stateLabel .box{stroke:none;stroke-width:0;fill:#ECECFF;opacity:0.5}#mermaid-1590767058404 .stateLabel text{fill:#000;font-size:10px;font-weight:bold;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .node circle.state-start{fill:black;stroke:black}#mermaid-1590767058404 .node circle.state-end{fill:black;stroke:white;stroke-width:1.5}#mermaid-1590767058404 #statediagram-barbEnd{fill:#9370db}#mermaid-1590767058404 .statediagram-cluster rect{fill:#ECECFF;stroke:#9370db;stroke-width:1px}#mermaid-1590767058404 .statediagram-cluster rect.outer{rx:5px;ry:5px}#mermaid-1590767058404 .statediagram-state .divider{stroke:#9370db}#mermaid-1590767058404 .statediagram-state .title-state{rx:5px;ry:5px}#mermaid-1590767058404 .statediagram-cluster.statediagram-cluster .inner{fill:white}#mermaid-1590767058404 .statediagram-cluster.statediagram-cluster-alt .inner{fill:#e0e0e0}#mermaid-1590767058404 .statediagram-cluster .inner{rx:0;ry:0}#mermaid-1590767058404 .statediagram-state rect.basic{rx:5px;ry:5px}#mermaid-1590767058404 .statediagram-state rect.divider{stroke-dasharray:10,10;fill:#efefef}#mermaid-1590767058404 .note-edge{stroke-dasharray:5}#mermaid-1590767058404 .statediagram-note rect{fill:#fff5ad;stroke:#aa3;stroke-width:1px;rx:0;ry:0}:root{--mermaid-font-family: &apos;&quot;trebuchet ms&quot;, verdana, arial&apos;;--mermaid-font-family: &quot;Comic Sans MS&quot;, &quot;Comic Sans&quot;, cursive}
-
-:root { --mermaid-font-family: &quot;trebuchet ms&quot;, verdana, arial;}&lt;/style&gt;&lt;style&gt;#mermaid-1590767058404 {
-    color: rgb(0, 0, 0);
-    font: normal normal 400 normal 16px / normal &quot;trebuchet ms&quot;, verdana, arial;
-  }&lt;/style&gt;&lt;g&gt;&lt;/g&gt;&lt;g&gt;&lt;line id=&quot;actor0&quot; x1=&quot;75&quot; y1=&quot;5&quot; x2=&quot;75&quot; y2=&quot;454&quot; class=&quot;actor-line&quot; stroke-width=&quot;0.5px&quot; stroke=&quot;#999&quot;&gt;&lt;/line&gt;&lt;rect x=&quot;0&quot; y=&quot;0&quot; fill=&quot;#eaeaea&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;65&quot; rx=&quot;3&quot; ry=&quot;3&quot; class=&quot;actor&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;75&quot; y=&quot;32.5&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; class=&quot;actor&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: Open-Sans, sans-serif;&quot;&gt;&lt;tspan x=&quot;75&quot; dy=&quot;0&quot;&gt;Alice&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;g&gt;&lt;line id=&quot;actor1&quot; x1=&quot;334.328125&quot; y1=&quot;5&quot; x2=&quot;334.328125&quot; y2=&quot;454&quot; class=&quot;actor-line&quot; stroke-width=&quot;0.5px&quot; stroke=&quot;#999&quot;&gt;&lt;/line&gt;&lt;rect x=&quot;259.328125&quot; y=&quot;0&quot; fill=&quot;#eaeaea&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;65&quot; rx=&quot;3&quot; ry=&quot;3&quot; class=&quot;actor&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;334.328125&quot; y=&quot;32.5&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; class=&quot;actor&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: Open-Sans, sans-serif;&quot;&gt;&lt;tspan x=&quot;334.328125&quot; dy=&quot;0&quot;&gt;Bob&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;g&gt;&lt;line id=&quot;actor2&quot; x1=&quot;574.109375&quot; y1=&quot;5&quot; x2=&quot;574.109375&quot; y2=&quot;454&quot; class=&quot;actor-line&quot; stroke-width=&quot;0.5px&quot; stroke=&quot;#999&quot;&gt;&lt;/line&gt;&lt;rect x=&quot;499.109375&quot; y=&quot;0&quot; fill=&quot;#eaeaea&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;65&quot; rx=&quot;3&quot; ry=&quot;3&quot; class=&quot;actor&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;574.109375&quot; y=&quot;32.5&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; class=&quot;actor&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: Open-Sans, sans-serif;&quot;&gt;&lt;tspan x=&quot;574.109375&quot; dy=&quot;0&quot;&gt;John&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;defs&gt;&lt;marker id=&quot;arrowhead&quot; refX=&quot;5&quot; refY=&quot;2&quot; markerWidth=&quot;6&quot; markerHeight=&quot;4&quot; orient=&quot;auto&quot;&gt;&lt;path d=&quot;M 0,0 V 4 L6,2 Z&quot;&gt;&lt;/path&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;defs&gt;&lt;marker id=&quot;crosshead&quot; markerWidth=&quot;15&quot; markerHeight=&quot;8&quot; orient=&quot;auto&quot; refX=&quot;16&quot; refY=&quot;4&quot;&gt;&lt;path fill=&quot;black&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1px&quot; d=&quot;M 9,2 V 6 L16,4 Z&quot; style=&quot;stroke-dasharray: 0, 0;&quot;&gt;&lt;/path&gt;&lt;path fill=&quot;none&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1px&quot; d=&quot;M 0,1 L 6,7 M 6,1 L 0,7&quot; style=&quot;stroke-dasharray: 0, 0;&quot;&gt;&lt;/path&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;defs&gt;&lt;marker id=&quot;sequencenumber&quot; refX=&quot;15&quot; refY=&quot;15&quot; markerWidth=&quot;60&quot; markerHeight=&quot;40&quot; orient=&quot;auto&quot;&gt;&lt;circle cx=&quot;15&quot; cy=&quot;15&quot; r=&quot;6&quot;&gt;&lt;/circle&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;g&gt;&lt;text x=&quot;204.6640625&quot; y=&quot;93&quot; class=&quot;messageText&quot; style=&quot;font-size: 16px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial; text-anchor: middle;&quot;&gt;Hello Bob, how are you?&lt;/text&gt;&lt;line x1=&quot;75&quot; y1=&quot;100&quot; x2=&quot;334.328125&quot; y2=&quot;100&quot; class=&quot;messageLine0&quot; stroke-width=&quot;2&quot; stroke=&quot;black&quot; marker-end=&quot;url(#arrowhead)&quot; style=&quot;fill: none;&quot;&gt;&lt;/line&gt;&lt;/g&gt;&lt;g&gt;&lt;text x=&quot;454.21875&quot; y=&quot;128&quot; class=&quot;messageText&quot; style=&quot;font-size: 16px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial; text-anchor: middle;&quot;&gt;How about you John?&lt;/text&gt;&lt;line x1=&quot;334.328125&quot; y1=&quot;135&quot; x2=&quot;574.109375&quot; y2=&quot;135&quot; class=&quot;messageLine1&quot; stroke-width=&quot;2&quot; stroke=&quot;black&quot; marker-end=&quot;url(#arrowhead)&quot; style=&quot;stroke-dasharray: 3, 3; fill: none;&quot;&gt;&lt;/line&gt;&lt;/g&gt;&lt;g&gt;&lt;text x=&quot;204.6640625&quot; y=&quot;163&quot; class=&quot;messageText&quot; style=&quot;font-size: 16px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial; text-anchor: middle;&quot;&gt;I am good thanks!&lt;/text&gt;&lt;line x1=&quot;334.328125&quot; y1=&quot;170&quot; x2=&quot;75&quot; y2=&quot;170&quot; class=&quot;messageLine1&quot; stroke-width=&quot;2&quot; stroke=&quot;black&quot; marker-end=&quot;url(#crosshead)&quot; style=&quot;stroke-dasharray: 3, 3; fill: none;&quot;&gt;&lt;/line&gt;&lt;/g&gt;&lt;g&gt;&lt;text x=&quot;454.21875&quot; y=&quot;198&quot; class=&quot;messageText&quot; style=&quot;font-size: 16px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial; text-anchor: middle;&quot;&gt;I am good thanks!&lt;/text&gt;&lt;line x1=&quot;334.328125&quot; y1=&quot;205&quot; x2=&quot;574.109375&quot; y2=&quot;205&quot; class=&quot;messageLine0&quot; stroke-width=&quot;2&quot; stroke=&quot;black&quot; marker-end=&quot;url(#crosshead)&quot; style=&quot;fill: none;&quot;&gt;&lt;/line&gt;&lt;/g&gt;&lt;g&gt;&lt;rect x=&quot;599.109375&quot; y=&quot;215&quot; fill=&quot;#EDF2AE&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;84&quot; rx=&quot;0&quot; ry=&quot;0&quot; class=&quot;note&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;674.109375&quot; y=&quot;233&quot; class=&quot;noteText&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial;&quot;&gt;&lt;tspan x=&quot;674.109375&quot;&gt;Bob thinks a long&lt;/tspan&gt;&lt;/text&gt;&lt;text x=&quot;674.109375&quot; y=&quot;249&quot; class=&quot;noteText&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial;&quot;&gt;&lt;tspan x=&quot;674.109375&quot;&gt;long time, so long&lt;/tspan&gt;&lt;/text&gt;&lt;text x=&quot;674.109375&quot; y=&quot;265&quot; class=&quot;noteText&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial;&quot;&gt;&lt;tspan x=&quot;674.109375&quot;&gt;that the text does&lt;/tspan&gt;&lt;/text&gt;&lt;text x=&quot;674.109375&quot; y=&quot;281&quot; class=&quot;noteText&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial;&quot;&gt;&lt;tspan x=&quot;674.109375&quot;&gt;not fit on a row.&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;g&gt;&lt;text x=&quot;204.6640625&quot; y=&quot;327&quot; class=&quot;messageText&quot; style=&quot;font-size: 16px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial; text-anchor: middle;&quot;&gt;Checking with John...&lt;/text&gt;&lt;line x1=&quot;334.328125&quot; y1=&quot;334&quot; x2=&quot;75&quot; y2=&quot;334&quot; class=&quot;messageLine1&quot; stroke-width=&quot;2&quot; stroke=&quot;black&quot; style=&quot;stroke-dasharray: 3, 3; fill: none;&quot;&gt;&lt;/line&gt;&lt;/g&gt;&lt;g&gt;&lt;text x=&quot;324.5546875&quot; y=&quot;362&quot; class=&quot;messageText&quot; style=&quot;font-size: 16px; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial; text-anchor: middle;&quot;&gt;Yes... John, how are you?&lt;/text&gt;&lt;line x1=&quot;75&quot; y1=&quot;369&quot; x2=&quot;574.109375&quot; y2=&quot;369&quot; class=&quot;messageLine0&quot; stroke-width=&quot;2&quot; stroke=&quot;black&quot; style=&quot;fill: none;&quot;&gt;&lt;/line&gt;&lt;/g&gt;&lt;g&gt;&lt;rect x=&quot;0&quot; y=&quot;389&quot; fill=&quot;#eaeaea&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;65&quot; rx=&quot;3&quot; ry=&quot;3&quot; class=&quot;actor&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;75&quot; y=&quot;421.5&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; class=&quot;actor&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: Open-Sans, sans-serif;&quot;&gt;&lt;tspan x=&quot;75&quot; dy=&quot;0&quot;&gt;Alice&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;g&gt;&lt;rect x=&quot;259.328125&quot; y=&quot;389&quot; fill=&quot;#eaeaea&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;65&quot; rx=&quot;3&quot; ry=&quot;3&quot; class=&quot;actor&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;334.328125&quot; y=&quot;421.5&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; class=&quot;actor&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: Open-Sans, sans-serif;&quot;&gt;&lt;tspan x=&quot;334.328125&quot; dy=&quot;0&quot;&gt;Bob&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;g&gt;&lt;rect x=&quot;499.109375&quot; y=&quot;389&quot; fill=&quot;#eaeaea&quot; stroke=&quot;#666&quot; width=&quot;150&quot; height=&quot;65&quot; rx=&quot;3&quot; ry=&quot;3&quot; class=&quot;actor&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;574.109375&quot; y=&quot;421.5&quot; dominant-baseline=&quot;central&quot; alignment-baseline=&quot;central&quot; class=&quot;actor&quot; style=&quot;text-anchor: middle; font-size: 14px; font-family: Open-Sans, sans-serif;&quot;&gt;&lt;tspan x=&quot;574.109375&quot; dy=&quot;0&quot;&gt;John&lt;/tspan&gt;&lt;/text&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;
-&lt;p&gt;And this will produce a flow chart:&lt;/p&gt;
-&lt;div class=&quot;mermaid&quot; data-processed=&quot;true&quot;&gt;&lt;svg id=&quot;mermaid-1590767058404&quot; width=&quot;497.7406311035156&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;166.71875&quot; viewBox=&quot;0 0 497.7406311035156 166.71875&quot;&gt;&lt;style&gt;#mermaid-1590767058404 .label{font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);color:#333}#mermaid-1590767058404 .label text{fill:#333}#mermaid-1590767058404 .node rect,#mermaid-1590767058404 .node circle,#mermaid-1590767058404 .node ellipse,#mermaid-1590767058404 .node polygon,#mermaid-1590767058404 .node path{fill:#ECECFF;stroke:#9370db;stroke-width:1px}#mermaid-1590767058404 .node .label{text-align:center}#mermaid-1590767058404 .node.clickable{cursor:pointer}#mermaid-1590767058404 .arrowheadPath{fill:#333}#mermaid-1590767058404 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1590767058404 .edgeLabel{background-color:#e8e8e8;text-align:center}#mermaid-1590767058404 .edgeLabel rect{opacity:0.5}#mermaid-1590767058404 .cluster rect{fill:#ffffde;stroke:#aa3;stroke-width:1px}#mermaid-1590767058404 .cluster text{fill:#333}#mermaid-1590767058404 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1590767058404 .actor{stroke:#ccf;fill:#ECECFF}#mermaid-1590767058404 text.actor{fill:#000;stroke:none}#mermaid-1590767058404 .actor-line{stroke:grey}#mermaid-1590767058404 .messageLine0{stroke-width:1.5;stroke-dasharray:&apos;2 2&apos;;stroke:#333}#mermaid-1590767058404 .messageLine1{stroke-width:1.5;stroke-dasharray:&apos;2 2&apos;;stroke:#333}#mermaid-1590767058404 #arrowhead{fill:#333}#mermaid-1590767058404 .sequenceNumber{fill:#fff}#mermaid-1590767058404 #sequencenumber{fill:#333}#mermaid-1590767058404 #crosshead path{fill:#333 !important;stroke:#333 !important}#mermaid-1590767058404 .messageText{fill:#333;stroke:none}#mermaid-1590767058404 .labelBox{stroke:#ccf;fill:#ECECFF}#mermaid-1590767058404 .labelText{fill:#000;stroke:none}#mermaid-1590767058404 .loopText{fill:#000;stroke:none}#mermaid-1590767058404 .loopLine{stroke-width:2;stroke-dasharray:&apos;2 2&apos;;stroke:#ccf}#mermaid-1590767058404 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1590767058404 .noteText{fill:black;stroke:none;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);font-size:14px}#mermaid-1590767058404 .activation0{fill:#f4f4f4;stroke:#666}#mermaid-1590767058404 .activation1{fill:#f4f4f4;stroke:#666}#mermaid-1590767058404 .activation2{fill:#f4f4f4;stroke:#666}#mermaid-1590767058404 .mermaid-main-font{font-family:&quot;trebuchet ms&quot;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .section{stroke:none;opacity:0.2}#mermaid-1590767058404 .section0{fill:rgba(102,102,255,0.49)}#mermaid-1590767058404 .section2{fill:#fff400}#mermaid-1590767058404 .section1,#mermaid-1590767058404 .section3{fill:#fff;opacity:0.2}#mermaid-1590767058404 .sectionTitle0{fill:#333}#mermaid-1590767058404 .sectionTitle1{fill:#333}#mermaid-1590767058404 .sectionTitle2{fill:#333}#mermaid-1590767058404 .sectionTitle3{fill:#333}#mermaid-1590767058404 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .grid .tick{stroke:#d3d3d3;opacity:0.8;shape-rendering:crispEdges}#mermaid-1590767058404 .grid .tick text{font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .grid path{stroke-width:0}#mermaid-1590767058404 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1590767058404 .task{stroke-width:2}#mermaid-1590767058404 .taskText{text-anchor:middle;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .taskText:not([font-size]){font-size:11px}#mermaid-1590767058404 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1590767058404 .task.clickable{cursor:pointer}#mermaid-1590767058404 .taskText.clickable{cursor:pointer;fill:#003163 !important;font-weight:bold}#mermaid-1590767058404 .taskTextOutsideLeft.clickable{cursor:pointer;fill:#003163 !important;font-weight:bold}#mermaid-1590767058404 .taskTextOutsideRight.clickable{cursor:pointer;fill:#003163 !important;font-weight:bold}#mermaid-1590767058404 .taskText0,#mermaid-1590767058404 .taskText1,#mermaid-1590767058404 .taskText2,#mermaid-1590767058404 .taskText3{fill:#fff}#mermaid-1590767058404 .task0,#mermaid-1590767058404 .task1,#mermaid-1590767058404 .task2,#mermaid-1590767058404 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1590767058404 .taskTextOutside0,#mermaid-1590767058404 .taskTextOutside2{fill:#000}#mermaid-1590767058404 .taskTextOutside1,#mermaid-1590767058404 .taskTextOutside3{fill:#000}#mermaid-1590767058404 .active0,#mermaid-1590767058404 .active1,#mermaid-1590767058404 .active2,#mermaid-1590767058404 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1590767058404 .activeText0,#mermaid-1590767058404 .activeText1,#mermaid-1590767058404 .activeText2,#mermaid-1590767058404 .activeText3{fill:#000 !important}#mermaid-1590767058404 .done0,#mermaid-1590767058404 .done1,#mermaid-1590767058404 .done2,#mermaid-1590767058404 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1590767058404 .doneText0,#mermaid-1590767058404 .doneText1,#mermaid-1590767058404 .doneText2,#mermaid-1590767058404 .doneText3{fill:#000 !important}#mermaid-1590767058404 .crit0,#mermaid-1590767058404 .crit1,#mermaid-1590767058404 .crit2,#mermaid-1590767058404 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1590767058404 .activeCrit0,#mermaid-1590767058404 .activeCrit1,#mermaid-1590767058404 .activeCrit2,#mermaid-1590767058404 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1590767058404 .doneCrit0,#mermaid-1590767058404 .doneCrit1,#mermaid-1590767058404 .doneCrit2,#mermaid-1590767058404 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1590767058404 .milestone{transform:rotate(45deg) scale(0.8, 0.8)}#mermaid-1590767058404 .milestoneText{font-style:italic}#mermaid-1590767058404 .doneCritText0,#mermaid-1590767058404 .doneCritText1,#mermaid-1590767058404 .doneCritText2,#mermaid-1590767058404 .doneCritText3{fill:#000 !important}#mermaid-1590767058404 .activeCritText0,#mermaid-1590767058404 .activeCritText1,#mermaid-1590767058404 .activeCritText2,#mermaid-1590767058404 .activeCritText3{fill:#000 !important}#mermaid-1590767058404 .titleText{text-anchor:middle;font-size:18px;fill:#000;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 g.classGroup text{fill:#9370db;stroke:none;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family);font-size:10px}#mermaid-1590767058404 g.classGroup text .title{font-weight:bolder}#mermaid-1590767058404 g.clickable{cursor:pointer}#mermaid-1590767058404 g.classGroup rect{fill:#ECECFF;stroke:#9370db}#mermaid-1590767058404 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1590767058404 .classLabel .box{stroke:none;stroke-width:0;fill:#ECECFF;opacity:0.5}#mermaid-1590767058404 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1590767058404 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1590767058404 .dashed-line{stroke-dasharray:3}#mermaid-1590767058404 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #compositionEnd{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #aggregationStart{fill:#ECECFF;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #aggregationEnd{fill:#ECECFF;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #dependencyStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #dependencyEnd{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 #extensionEnd{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1590767058404 .commit-id,#mermaid-1590767058404 .commit-msg,#mermaid-1590767058404 .branch-label{fill:lightgrey;color:lightgrey;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .pieTitleText{text-anchor:middle;font-size:25px;fill:#000;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .slice{font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 g.stateGroup text{fill:#9370db;stroke:none;font-size:10px;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 g.stateGroup text{fill:#9370db;stroke:none;font-size:10px}#mermaid-1590767058404 g.stateGroup .state-title{font-weight:bolder;fill:#000}#mermaid-1590767058404 g.stateGroup rect{fill:#ECECFF;stroke:#9370db}#mermaid-1590767058404 g.stateGroup line{stroke:#9370db;stroke-width:1}#mermaid-1590767058404 .transition{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1590767058404 .stateGroup .composit{fill:white;border-bottom:1px}#mermaid-1590767058404 .stateGroup .alt-composit{fill:#e0e0e0;border-bottom:1px}#mermaid-1590767058404 .state-note{stroke:#aa3;fill:#fff5ad}#mermaid-1590767058404 .state-note text{fill:black;stroke:none;font-size:10px}#mermaid-1590767058404 .stateLabel .box{stroke:none;stroke-width:0;fill:#ECECFF;opacity:0.5}#mermaid-1590767058404 .stateLabel text{fill:#000;font-size:10px;font-weight:bold;font-family:&apos;trebuchet ms&apos;, verdana, arial;font-family:var(--mermaid-font-family)}#mermaid-1590767058404 .node circle.state-start{fill:black;stroke:black}#mermaid-1590767058404 .node circle.state-end{fill:black;stroke:white;stroke-width:1.5}#mermaid-1590767058404 #statediagram-barbEnd{fill:#9370db}#mermaid-1590767058404 .statediagram-cluster rect{fill:#ECECFF;stroke:#9370db;stroke-width:1px}#mermaid-1590767058404 .statediagram-cluster rect.outer{rx:5px;ry:5px}#mermaid-1590767058404 .statediagram-state .divider{stroke:#9370db}#mermaid-1590767058404 .statediagram-state .title-state{rx:5px;ry:5px}#mermaid-1590767058404 .statediagram-cluster.statediagram-cluster .inner{fill:white}#mermaid-1590767058404 .statediagram-cluster.statediagram-cluster-alt .inner{fill:#e0e0e0}#mermaid-1590767058404 .statediagram-cluster .inner{rx:0;ry:0}#mermaid-1590767058404 .statediagram-state rect.basic{rx:5px;ry:5px}#mermaid-1590767058404 .statediagram-state rect.divider{stroke-dasharray:10,10;fill:#efefef}#mermaid-1590767058404 .note-edge{stroke-dasharray:5}#mermaid-1590767058404 .statediagram-note rect{fill:#fff5ad;stroke:#aa3;stroke-width:1px;rx:0;ry:0}:root{--mermaid-font-family: &apos;&quot;trebuchet ms&quot;, verdana, arial&apos;;--mermaid-font-family: &quot;Comic Sans MS&quot;, &quot;Comic Sans&quot;, cursive}
-
-:root { --mermaid-font-family: &quot;trebuchet ms&quot;, verdana, arial;}&lt;/style&gt;&lt;style&gt;#mermaid-1590767058404 {
-    color: rgb(0, 0, 0);
-    font: normal normal 400 normal 16px / normal &quot;trebuchet ms&quot;, verdana, arial;
-  }&lt;/style&gt;&lt;g&gt;&lt;g class=&quot;output&quot;&gt;&lt;g class=&quot;clusters&quot;&gt;&lt;/g&gt;&lt;g class=&quot;edgePaths&quot;&gt;&lt;g class=&quot;edgePath&quot; style=&quot;opacity: 1;&quot;&gt;&lt;path class=&quot;path&quot; d=&quot;M103.57543569009809,69.5390625L170.6953125,38.859375L247.4140625,38.859375&quot; marker-end=&quot;url(#arrowhead15)&quot; style=&quot;fill:none&quot;&gt;&lt;/path&gt;&lt;defs&gt;&lt;marker id=&quot;arrowhead15&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerUnits=&quot;strokeWidth&quot; markerWidth=&quot;8&quot; markerHeight=&quot;6&quot; orient=&quot;auto&quot;&gt;&lt;path d=&quot;M 0 0 L 10 5 L 0 10 z&quot; class=&quot;arrowheadPath&quot; style=&quot;stroke-width: 1; stroke-dasharray: 1, 0;&quot;&gt;&lt;/path&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;/g&gt;&lt;g class=&quot;edgePath&quot; style=&quot;opacity: 1;&quot;&gt;&lt;path class=&quot;path&quot; d=&quot;M103.57543569009809,108.5390625L170.6953125,139.21875L227.5625,139.21875&quot; marker-end=&quot;url(#arrowhead16)&quot; style=&quot;fill:none&quot;&gt;&lt;/path&gt;&lt;defs&gt;&lt;marker id=&quot;arrowhead16&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerUnits=&quot;strokeWidth&quot; markerWidth=&quot;8&quot; markerHeight=&quot;6&quot; orient=&quot;auto&quot;&gt;&lt;path d=&quot;M 0 0 L 10 5 L 0 10 z&quot; class=&quot;arrowheadPath&quot; style=&quot;stroke-width: 1; stroke-dasharray: 1, 0;&quot;&gt;&lt;/path&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;/g&gt;&lt;g class=&quot;edgePath&quot; style=&quot;opacity: 1;&quot;&gt;&lt;path class=&quot;path&quot; d=&quot;M309.1328125,38.859375L353.984375,38.859375L400.768869530837,68.2545687321024&quot; marker-end=&quot;url(#arrowhead17)&quot; style=&quot;fill:none&quot;&gt;&lt;/path&gt;&lt;defs&gt;&lt;marker id=&quot;arrowhead17&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerUnits=&quot;strokeWidth&quot; markerWidth=&quot;8&quot; markerHeight=&quot;6&quot; orient=&quot;auto&quot;&gt;&lt;path d=&quot;M 0 0 L 10 5 L 0 10 z&quot; class=&quot;arrowheadPath&quot; style=&quot;stroke-width: 1; stroke-dasharray: 1, 0;&quot;&gt;&lt;/path&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;/g&gt;&lt;g class=&quot;edgePath&quot; style=&quot;opacity: 1;&quot;&gt;&lt;path class=&quot;path&quot; d=&quot;M328.984375,139.21875L353.984375,139.21875L400.7688685914273,110.82355685436669&quot; marker-end=&quot;url(#arrowhead18)&quot; style=&quot;fill:none&quot;&gt;&lt;/path&gt;&lt;defs&gt;&lt;marker id=&quot;arrowhead18&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerUnits=&quot;strokeWidth&quot; markerWidth=&quot;8&quot; markerHeight=&quot;6&quot; orient=&quot;auto&quot;&gt;&lt;path d=&quot;M 0 0 L 10 5 L 0 10 z&quot; class=&quot;arrowheadPath&quot; style=&quot;stroke-width: 1; stroke-dasharray: 1, 0;&quot;&gt;&lt;/path&gt;&lt;/marker&gt;&lt;/defs&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;edgeLabels&quot;&gt;&lt;g class=&quot;edgeLabel&quot; transform=&quot;translate(170.6953125,38.859375)&quot; style=&quot;opacity: 1;&quot;&gt;&lt;g transform=&quot;translate(-31.8671875,-9.5)&quot; class=&quot;label&quot;&gt;&lt;rect rx=&quot;0&quot; ry=&quot;0&quot; width=&quot;63.734375&quot; height=&quot;19&quot; style=&quot;fill:#e8e8e8;&quot;&gt;&lt;/rect&gt;&lt;foreignObject width=&quot;63.734375&quot; height=&quot;19&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;&lt;span class=&quot;edgeLabel&quot;&gt;Link text&lt;/span&gt;&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;edgeLabel&quot; transform=&quot;&quot; style=&quot;opacity: 1;&quot;&gt;&lt;g transform=&quot;translate(0,0)&quot; class=&quot;label&quot;&gt;&lt;rect rx=&quot;0&quot; ry=&quot;0&quot; width=&quot;0&quot; height=&quot;0&quot; style=&quot;fill:#e8e8e8;&quot;&gt;&lt;/rect&gt;&lt;foreignObject width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;&lt;span class=&quot;edgeLabel&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;edgeLabel&quot; transform=&quot;&quot; style=&quot;opacity: 1;&quot;&gt;&lt;g transform=&quot;translate(0,0)&quot; class=&quot;label&quot;&gt;&lt;rect rx=&quot;0&quot; ry=&quot;0&quot; width=&quot;0&quot; height=&quot;0&quot; style=&quot;fill:#e8e8e8;&quot;&gt;&lt;/rect&gt;&lt;foreignObject width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;&lt;span class=&quot;edgeLabel&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;edgeLabel&quot; transform=&quot;&quot; style=&quot;opacity: 1;&quot;&gt;&lt;g transform=&quot;translate(0,0)&quot; class=&quot;label&quot;&gt;&lt;rect rx=&quot;0&quot; ry=&quot;0&quot; width=&quot;0&quot; height=&quot;0&quot; style=&quot;fill:#e8e8e8;&quot;&gt;&lt;/rect&gt;&lt;foreignObject width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;&lt;span class=&quot;edgeLabel&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;nodes&quot;&gt;&lt;g class=&quot;node default&quot; id=&quot;A&quot; transform=&quot;translate(60.9140625,89.0390625)&quot; style=&quot;opacity: 1;&quot;&gt;&lt;rect rx=&quot;0&quot; ry=&quot;0&quot; x=&quot;-52.9140625&quot; y=&quot;-19.5&quot; width=&quot;105.828125&quot; height=&quot;39&quot; class=&quot;label-container&quot;&gt;&lt;/rect&gt;&lt;g class=&quot;label&quot; transform=&quot;translate(0,0)&quot;&gt;&lt;g transform=&quot;translate(-42.9140625,-9.5)&quot;&gt;&lt;foreignObject width=&quot;85.828125&quot; height=&quot;19&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;Square Rect&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;node default&quot; id=&quot;B&quot; transform=&quot;translate(278.2734375,38.859375)&quot; style=&quot;opacity: 1;&quot;&gt;&lt;circle x=&quot;-30.859375&quot; y=&quot;-19.5&quot; r=&quot;30.859375&quot; class=&quot;label-container&quot;&gt;&lt;/circle&gt;&lt;g class=&quot;label&quot; transform=&quot;translate(0,0)&quot;&gt;&lt;g transform=&quot;translate(-20.859375,-9.5)&quot;&gt;&lt;foreignObject width=&quot;41.71875&quot; height=&quot;19&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;Circle&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;node default&quot; id=&quot;C&quot; transform=&quot;translate(278.2734375,139.21875)&quot; style=&quot;opacity: 1;&quot;&gt;&lt;rect rx=&quot;5&quot; ry=&quot;5&quot; x=&quot;-50.7109375&quot; y=&quot;-19.5&quot; width=&quot;101.421875&quot; height=&quot;39&quot; class=&quot;label-container&quot;&gt;&lt;/rect&gt;&lt;g class=&quot;label&quot; transform=&quot;translate(0,0)&quot;&gt;&lt;g transform=&quot;translate(-40.7109375,-9.5)&quot;&gt;&lt;foreignObject width=&quot;81.421875&quot; height=&quot;19&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;Round Rect&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g class=&quot;node default&quot; id=&quot;D&quot; transform=&quot;translate(434.36249923706055,89.0390625)&quot; style=&quot;opacity: 1;&quot;&gt;&lt;polygon points=&quot;55.378125000000004,0 110.75625000000001,-55.378125000000004 55.378125000000004,-110.75625000000001 0,-55.378125000000004&quot; transform=&quot;translate(-55.378125000000004,55.378125000000004)&quot; class=&quot;label-container&quot;&gt;&lt;/polygon&gt;&lt;g class=&quot;label&quot; transform=&quot;translate(0,0)&quot;&gt;&lt;g transform=&quot;translate(-32.03125,-9.5)&quot;&gt;&lt;foreignObject width=&quot;64.0625&quot; height=&quot;19&quot;&gt;&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;display: inline-block; white-space: nowrap;&quot;&gt;Rhombus&lt;/div&gt;&lt;/foreignObject&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;
-&lt;p&gt;Libraries often attempt to remain neutral in the resulting debates, but that neutrality is predicated on the idea that the debates are taking place on a post-enlightenment playing field and that, eventually, the best ideas will succeed. Or at least that, over time, reasonable people will develop a shared set of facts and tools for assessing and discussing that reality. This allows the library to accomplish good for its users by providing access&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;And here’s a bit of trailing text.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Text-level semantics&lt;/h2&gt;
+&lt;p&gt;HTML elements&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;#&quot;&gt;a element&lt;/a&gt; example &lt;br&gt;
+The &lt;abbr&gt;abbr element&lt;/abbr&gt; and &lt;abbr title=&quot;Title text&quot;&gt;abbr element with title&lt;/abbr&gt; examples &lt;br&gt;
+The &lt;b&gt;b element&lt;/b&gt; example &lt;br&gt;
+The &lt;cite&gt;cite element&lt;/cite&gt; example &lt;br&gt;
+The &lt;code&gt;code element&lt;/code&gt; example &lt;br&gt;
+The &lt;del&gt;del element&lt;/del&gt; example &lt;br&gt;
+The &lt;dfn&gt;dfn element&lt;/dfn&gt; and &lt;dfn title=&quot;Title text&quot;&gt;dfn element with title&lt;/dfn&gt; examples &lt;br&gt;
+The &lt;em&gt;em element&lt;/em&gt; example &lt;br&gt;
+The &lt;i&gt;i element&lt;/i&gt; example &lt;br&gt;
+The &lt;ins&gt;ins element&lt;/ins&gt; example &lt;br&gt;
+The &lt;kbd&gt;kbd element&lt;/kbd&gt; example &lt;br&gt;
+The &lt;mark&gt;mark element&lt;/mark&gt; example &lt;br&gt;
+The &lt;q&gt;q element &lt;q&gt;inside&lt;/q&gt; a q element&lt;/q&gt; example &lt;br&gt;
+The &lt;s&gt;s element&lt;/s&gt; example &lt;br&gt;
+The &lt;samp&gt;samp element&lt;/samp&gt; example &lt;br&gt;
+The &lt;small&gt;small element&lt;/small&gt; example &lt;br&gt;
+The &lt;span&gt;span element&lt;/span&gt; example &lt;br&gt;
+The &lt;strong&gt;strong element&lt;/strong&gt; example &lt;br&gt;
+The &lt;sub&gt;sub element&lt;/sub&gt; example &lt;br&gt;
+The &lt;sup&gt;sup element&lt;/sup&gt; example &lt;br&gt;
+The &lt;var&gt;var element&lt;/var&gt; example &lt;br&gt;
+The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
+* * *
+&lt;h2&gt;Embeds&lt;/h2&gt;
+&lt;p&gt;Sometimes all you want to do is embed a little love from another location and set your post alive.&lt;/p&gt;
+&lt;h3&gt;Video&lt;/h3&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.166666666666664%; position: relative; height: 0; overflow: hidden; margin-bottom: 1rem&quot; &gt; &lt;iframe src=&quot;//player.vimeo.com/video/103224792&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;h3&gt;Slides&lt;/h3&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;585245d01ee1013238737e42b879906f&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h3&gt;Audio&lt;/h3&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/52891122&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h3&gt;Code&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.&lt;/p&gt;
+&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;bcqhe&quot; data-default-tab=&quot;result&quot; data-user=&quot;rglazebrook&quot; class=&apos;codepen&apos;&gt;See the Pen &lt;a href=&apos;http://codepen.io/rglazebrook/pen/bcqhe/&apos;&gt;Simple Rotating Spinner&lt;/a&gt; by Rob Glazebrook (&lt;a href=&apos;http://codepen.io/rglazebrook&apos;&gt;@rglazebrook&lt;/a&gt;) on &lt;a href=&apos;http://codepen.io&apos;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;Isn’t it beautiful.&lt;/p&gt;
+&lt;p&gt;_[HTML]: Hyper Text Markup Language
+_[CSS]: Cascading Style Sheets&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to Ghost]]></title><description><![CDATA[A few things you should know upfront: Ghost is designed for ambitious, professional publishers who want to actively build a business around…]]></description><link>https://comunidadti.com/archive/welcome/</link><guid isPermaLink="false">https://comunidadti.com/archive/welcome/</guid><pubDate>Sun, 06 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;A few things you should know upfront&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for.&lt;/li&gt;
+&lt;li&gt;The entire platform can be modified and customised to suit your needs. It’s very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
+&lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our Ghost(Pro) service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.&lt;/p&gt;
+&lt;p&gt;The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source community.&lt;/p&gt;
+&lt;h2&gt;Next up, the editor&lt;/h2&gt;
+&lt;p&gt;The main thing you’ll want to read about next is probably: the Ghost editor. This is where the good stuff happens.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By the way, once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Using The Ghost Editor]]></title><description><![CDATA[Ghost uses a language called Markdown to format text. When you go to edit a post and see special characters and colours intertwined between…]]></description><link>https://comunidadti.com/archive/using-the-ghost-editor/</link><guid isPermaLink="false">https://comunidadti.com/archive/using-the-ghost-editor/</guid><pubDate>Mon, 02 Feb 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
+&lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
+&lt;p&gt;At the bottom of the editor, you’ll find a toolbar with basic formatting options to help you get started as easily as possible. You’ll also notice that there’s a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.&lt;/p&gt;
+&lt;p&gt;For now, though, let’s run you through some of the basics. You’ll want to make sure you’re editing this post in order to see all the Markdown we’ve used.&lt;/p&gt;
+&lt;h2&gt;Formatting text&lt;/h2&gt;
+&lt;p&gt;The most common shortcuts are of course, &lt;strong&gt;bold&lt;/strong&gt; text, &lt;em&gt;italic&lt;/em&gt; text, and &lt;a href=&quot;https://example.com&quot;&gt;hyperlinks&lt;/a&gt;. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;CMD/Ctrl + B&lt;/code&gt; for Bold&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;CMD/Ctrl + I&lt;/code&gt; for Italic&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;CMD/Ctrl + K&lt;/code&gt; for a Link&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;CMD/Ctrl + H&lt;/code&gt; for a Heading (Press multiple times for h2/h3/h4/etc)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With just a couple of extra characters here and there, you’re well on your way to creating a beautifully formatted story.&lt;/p&gt;
+&lt;h2&gt;Inserting images&lt;/h2&gt;
+&lt;p&gt;Images in Markdown look just the same as links, except they’re prefixed with an exclamation mark, like this:&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;![Image description](/path/to/image.jpg)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/computer.jpg&quot; alt=&quot;Computer&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Most Markdown editors don’t make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Important Note:&lt;/strong&gt; Ghost does not currently have automatic image resizing, so it’s always a good idea to make sure your images aren’t gigantic files &lt;strong&gt;before&lt;/strong&gt; uploading them to Ghost.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Making lists&lt;/h2&gt;
+&lt;p&gt;Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use &lt;code class=&quot;language-text&quot;&gt;*&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;-&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;+&lt;/code&gt;. Like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Crack the eggs over a bowl&lt;/li&gt;
+&lt;li&gt;Whisk them together&lt;/li&gt;
+&lt;li&gt;Make an omelette&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remember to buy milk&lt;/li&gt;
+&lt;li&gt;Feed the cat&lt;/li&gt;
+&lt;li&gt;Come up with idea for next story&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Adding quotes&lt;/h2&gt;
+&lt;p&gt;When you want to pull out a particularly good excerpt in the middle of a piece, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;gt;&lt;/code&gt; at the beginning of a paragraph to turn it into a Blockquote. You might’ve seen this formatting before in email clients.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A well placed quote guides a reader through a story, helping them to understand the most important points being made&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All themes handles blockquotes slightly differently. Sometimes they’ll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.&lt;/p&gt;
+&lt;h2&gt;Dividing things up&lt;/h2&gt;
+&lt;p&gt;If you’re writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping &lt;code class=&quot;language-text&quot;&gt;---&lt;/code&gt; on a new line will create a sleek divider, anywhere you want it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This should get you going with the vast majority of what you need to do in the editor, but if you’re still curious about more advanced tips then check out the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you’d rather learn about how Ghost taxononomies work, we’ve got a overview of &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Purpose of Education]]></title><description><![CDATA[As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the…]]></description><link>https://comunidadti.com/archive/purpose-of-education/</link><guid isPermaLink="false">https://comunidadti.com/archive/purpose-of-education/</guid><pubDate>Mon, 20 Aug 2012 15:11:55 GMT</pubDate><content:encoded>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
+&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character—that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+&lt;p&gt;If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, “brethren!” Be careful, teachers!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Great Gatsby]]></title><description><![CDATA[In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since. “Whenever you feel…]]></description><link>https://comunidadti.com/archive/emancipation-proclamation/</link><guid isPermaLink="false">https://comunidadti.com/archive/emancipation-proclamation/</guid><pubDate>Tue, 12 Dec 1922 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.&lt;/p&gt;
+&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”&lt;/p&gt;
+&lt;p&gt;He didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I’m inclined to reserve all judgments, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought — frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions. Reserving judgments is a matter of infinite hope. I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.&lt;/p&gt;
+&lt;p&gt;And, after boasting this way of my tolerance, I come to the admission that it has a limit. Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don’t care what it’s founded on. When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart. Only Gatsby, the man who gives his name to this book, was exempt from my reaction — Gatsby, who represented everything for which I have an unaffected scorn. If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away. This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the “creative temperament.”— it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again. No — Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gettysburg Address]]></title><description><![CDATA[Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the…]]></description><link>https://comunidadti.com/archive/gettysburg-address/</link><guid isPermaLink="false">https://comunidadti.com/archive/gettysburg-address/</guid><pubDate>Thu, 19 Nov 1863 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content:encoded></item></channel></rss>
