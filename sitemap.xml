@@ -4,7 +4,6 @@
 <url> <loc>https://comunidadti.com/desarollo-web-donde-empiezo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/revisando-protocolo-http/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/que-es-docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://comunidadti.com/usando-docker-compose-postgresql</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/tags/newbie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/tags/web/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/author/ghost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
