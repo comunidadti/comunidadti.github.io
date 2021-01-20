@@ -5,9 +5,12 @@
 <url> <loc>https://comunidadti.com/revisando-protocolo-http/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/que-es-docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/introduccion-al-machine-learning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://comunidadti.com/creacte-react-app-con-express-y-typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/tags/newbie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/tags/web/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/tags/machine-learning/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://comunidadti.com/tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://comunidadti.com/tags/express/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/author/hector-yeomans/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/author/isaac-zepeda/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://comunidadti.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
